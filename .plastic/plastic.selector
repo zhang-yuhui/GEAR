@@ -1,0 +1,4 @@
+repository "GEAR/GEAR@1375722808875@cloud"
+  path "/"
+    br "/main"
+    co "/main"

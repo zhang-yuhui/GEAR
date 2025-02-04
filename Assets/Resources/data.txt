@@ -1,0 +1,2 @@
+Sphere 2 0 2
+Capsule -1 0 3

@@ -1,0 +1,27 @@
+[
+        {
+            "bond": "default",
+            "cutoff": 2,
+            "tolerance": 0.5    
+        },
+        {
+            "bond": "C-C",
+            "cutoff": 2,
+            "tolerance": 0.5
+        },
+        {
+            "bond": "C-H",
+            "cutoff": 1.09,
+            "tolerance": 0.3
+        },
+        {
+            "bond": "C-O",
+            "cutoff": 2,
+            "tolerance": 0.5
+        },
+        {
+            "bond": "O -O",
+            "cutoff": 2.0,
+            "tolerance": 0.5
+        }
+]
